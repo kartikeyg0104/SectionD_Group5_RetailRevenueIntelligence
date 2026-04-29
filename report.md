@@ -3,6 +3,28 @@
 ## Retail Revenue Intelligence: Unlocking Sales Performance Through Data-Driven Insights
 
 ---
+### 1. Cover Page
+
+| Field | Details |
+|---|---|
+| **Project Title** | Retail Revenue Intelligence |
+| **Sector** | Retail / Consumer Goods |
+| **Team ID** | Section D — Group 5 |
+| **Team Members & Roles** |
+         Divy Kumar Jain — Team Lead | Data Cleaning, EDA & Statistical Analysis
+         Tanisha Dhiman — Tableau Dashboards & Data Sourcing
+         Kartikey Gupta — Tableau Dashboards
+         Disha Khanka — Presentation (PPT & Viva)
+         Yash Raj — Report Writing |
+| **Faculty Mentor** | Satyaki Das |
+| **Institute** | Newton School of Technology |
+| **GitHub Repository URL** | [https://github.com/kartikeyg0104/SectionD_Group5_RetailRevenueIntelligence](https://github.com/kartikeyg0104/SectionD_Group5_RetailRevenueIntelligence) |
+| **Tableau Public Dashboard — Executive Overview** | [Dashboard 1](https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard1?publish=yes) |
+| **Tableau Public Dashboard — Customer Analysis** | [Dashboard 2](https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard2?publish=yes) |
+| **Tableau Public Dashboard — Sales & Category Performance** | [Dashboard 3](https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard3?publish=yes) |
+| **Submission Date** | 29 April 2026 |
+
+---
 
 ### 2. Executive Summary
 
@@ -25,23 +47,7 @@
 
 ---
 
-### 1. Cover Page
 
-| Field | Details |
-|---|---|
-| **Project Title** | Retail Revenue Intelligence |
-| **Sector** | Retail / Consumer Goods |
-| **Team ID** | Section D — Group 5 |
-| **Team Members & Roles** | Not specified in repository |
-| **Faculty Mentor** | Not specified |
-| **Institute** | Newton School of Technology |
-| **GitHub Repository URL** | [https://github.com/kartikeyg0104/SectionD_Group5_RetailRevenueIntelligence](https://github.com/kartikeyg0104/SectionD_Group5_RetailRevenueIntelligence) |
-| **Tableau Public Dashboard — Executive Overview** | [Dashboard 1](https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard1?publish=yes) |
-| **Tableau Public Dashboard — Customer Analysis** | [Dashboard 2](https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard2?publish=yes) |
-| **Tableau Public Dashboard — Sales & Category Performance** | [Dashboard 3](https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard3?publish=yes) |
-| **Submission Date** | 29 April 2026 |
-
----
 
 ### 3. Sector & Business Context
 
