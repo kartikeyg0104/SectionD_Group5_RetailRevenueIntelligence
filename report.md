@@ -586,4 +586,4 @@ SectionD_Group5_RetailRevenueIntelligence/
    The Tableau dashboards are hosted publicly and do not require Tableau Desktop to view. Navigate to the URLs provided in Section 1 to interact with the visualizations.
 
 ---
-[End of Report]
+
