@@ -9,7 +9,7 @@ A modern and responsive developer portfolio built to showcase my projects, techn
 - Vercel Deployment
 
 ## Live Demo
-- Hosted Portfolio: https://dva-portfolio-blue.vercel.app/
+- Hosted Portfolio: https://dva-portfolio-pearl.vercel.app/
 
 ## GitHub Repository
 - Source Code: https://github.com/divyjain05/DVA-Portfolio
