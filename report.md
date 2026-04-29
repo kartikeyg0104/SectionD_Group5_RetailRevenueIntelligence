@@ -10,12 +10,11 @@
 | **Project Title** | Retail Revenue Intelligence |
 | **Sector** | Retail / Consumer Goods |
 | **Team ID** | Section D — Group 5 |
-| **Team Members & Roles** |
-         Divy Kumar Jain — Team Lead | Data Cleaning, EDA & Statistical Analysis
-         Tanisha Dhiman — Tableau Dashboards & Data Sourcing
-         Kartikey Gupta — Tableau Dashboards
-         Disha Khanka — Presentation (PPT & Viva)
-         Yash Raj — Report Writing |
+| **Team Members & Roles** | Divy Kumar Jain — Team Lead | Data Cleaning, EDA & Statistical Analysis
+Tanisha Dhiman — Tableau Dashboards & Data Sourcing
+Kartikey Gupta — Tableau Dashboards
+Disha Khanka — Presentation (PPT & Viva)
+Yash Raj — Report Writing |
 | **Faculty Mentor** | Satyaki Das |
 | **Institute** | Newton School of Technology |
 | **GitHub Repository URL** | [https://github.com/kartikeyg0104/SectionD_Group5_RetailRevenueIntelligence](https://github.com/kartikeyg0104/SectionD_Group5_RetailRevenueIntelligence) |
