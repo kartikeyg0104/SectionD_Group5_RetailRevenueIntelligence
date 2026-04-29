@@ -1,7 +1,5 @@
 ## Dashboard URL
 
-> **Replace the placeholder below with your actual Tableau Public URL:**
-
 | Field            | Dashboard Link                          |
 |------------------|----------------------------------|
 | Executive Overview Dashboard  | `https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard1?publish=yes` |
