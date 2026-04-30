@@ -1,4 +1,4 @@
-# 🛒 Retail Revenue Intelligence
+# Retail Revenue Intelligence
 
 ### Unlocking Sales Performance Through Data-Driven Insights
 
@@ -22,7 +22,7 @@ This project answers:
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 This analysis enables stakeholders to:
 
@@ -45,7 +45,7 @@ This analysis enables stakeholders to:
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 * **Source:** Kaggle
 * **Dataset Name:** Retail Store Sales: Dirty for Data Cleaning
@@ -58,9 +58,9 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔹 Data Processing
+### Data Processing
 
 * **Python (Jupyter Notebook / Google Colab)**
 * Libraries:
@@ -71,17 +71,17 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
   * matplotlib
   * seaborn
 
-### 🔹 Visualization
+### Visualization
 
 * **Tableau Public**
 
-### 🔹 Data Source
+### Data Source
 
 * Kaggle
 
 ---
 
-## 🔄 Data Pipeline
+## Data Pipeline
 
 1. Data Extraction
 2. Data Cleaning & Transformation
@@ -92,7 +92,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 📈 KPIs Tracked
+## KPIs Tracked
 
 * Total Revenue
 * Total Transactions
@@ -106,21 +106,21 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
-### 🔹 1. Executive Overview
+### 1. Executive Overview
 
 * Business KPIs
 * Revenue trend
 * Category performance
 
-### 🔹 2. Customer Analysis
+### 2. Customer Analysis
 
 * Customer spend
 * Transaction frequency
 * High-value customer identification
 
-### 🔹 3. Sales & Category Performance
+### 3. Sales & Category Performance
 
 * Category-wise revenue
 * Payment method distribution
@@ -129,7 +129,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 🎛️ Features
+## Features
 
 * Interactive filters:
 
@@ -143,7 +143,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 📌 Key Recommendations
+## Key Recommendations
 
 * Replace blanket discounts with **targeted promotions**
 * Focus on **quantity-driven upselling strategies**
@@ -153,7 +153,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Small customer base (25 customers)
 * No cost/profit data (only revenue)
@@ -162,7 +162,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 * Predictive demand forecasting
 * Profitability analysis 
@@ -172,7 +172,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 👥 Team
+## Team
 
 * Divy Kumar Jain — Data Cleaning & Analysis
 * Tanisha Dhiman — Tableau Dashboards & Data Sourcing
@@ -182,14 +182,14 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 ---
 
-## 📎 Tableau Dashboards
+## Tableau Dashboards
 📎 Tableau Dashboards
 Executive Overview → (https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard1?publish=yes)
 Customer Analysis → (https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard2?publish=yes)
 Sales & Category → (https://public.tableau.com/app/profile/tanisha.dhiman.dhiman/viz/DVAPROJECT2/Dashboard3?publish=yes)
 
 ---
-## 📌 Conclusion
+## Conclusion
 
 This project successfully demonstrates how **raw retail data can be transformed into actionable business intelligence** using Python and Tableau.
 
